@@ -1,0 +1,9 @@
+{ 
+    "user": [
+        {"name" : "Kevin", "email": "keviincabrera@gmail.com"},
+        {"name" : "John", "email": "john_locke@gmail.com"},
+        {"name" : "Desmond", "email": "DesmondHume@gmail.com"},
+        {"name" : "Paco", "email": "paquito@gmail.com"}    
+    ]
+}
+
